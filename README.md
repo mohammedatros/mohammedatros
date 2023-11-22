@@ -38,6 +38,9 @@ The need for an automated toxicity detection system in Online Social Networks (O
   
 ## Projects (Dureing Master's Studies)
 - Analysis of USAID DHS Data to Address Malnutrition in Yemeni Children
+
+![Example](assets/img/download.png)
+
 - Visual Analysis and Explainable Deep Learning Modelling of Human Activity Time Series Data
 - G-Research Crypto Forecasting (Time-Series Analysis)
 - Santander customer data analysis
