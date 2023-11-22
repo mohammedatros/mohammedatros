@@ -42,6 +42,9 @@ The need for an automated toxicity detection system in Online Social Networks (O
 ![Example](assets/img/download.png)
 
 - Visual Analysis and Explainable Deep Learning Modelling of Human Activity Time Series Data
+
+![Example](assets/img/viz.png)
+
 - G-Research Crypto Forecasting (Time-Series Analysis)
 - Santander customer data analysis
 - 
