@@ -50,7 +50,7 @@ The need for an automated toxicity detection system in Online Social Networks (O
 ![Example](assets/img/Crypto.png)
 
 - Santander customer data analysis
-- 
+  
 ## Publications
 
 - Radman, Azzam, Mohammed Atros, and Rehab Duwairi. "Neural Arabic singular-to-plural conversion using a pretrained Character-BERT and a fused transformer." Natural Language Engineering (2023): 1-25.‏
