@@ -46,6 +46,9 @@ The need for an automated toxicity detection system in Online Social Networks (O
 ![Example](assets/img/viz.png)
 
 - G-Research Crypto Forecasting (Time-Series Analysis)
+
+![Example](assets/img/Crypto.png)
+
 - Santander customer data analysis
 - 
 ## Publications
