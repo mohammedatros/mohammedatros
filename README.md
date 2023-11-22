@@ -22,6 +22,10 @@
 
 [Publication](https://www.cambridge.org/core/journals/natural-language-engineering/article/neural-arabic-singulartoplural-conversion-using-a-pretrained-characterbert-and-a-fused-transformer/E181664F4CEDC19C02B073D9C582EB62?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
 
+- Spans Detection of Toxic Phrases in Arabic Tweets
+
+[Publication](https://ieeexplore.ieee.org/abstract/document/9811228)
+  
 ## Projects (Dureing Master's Studies)
 - Analysis of USAID DHS Data to Address Malnutrition in Yemeni Children
 - Visual Analysis and Explainable Deep Learning Modelling of Human Activity Time Series Data
