@@ -21,6 +21,7 @@
 ### Neural Arabic singular-to-plural conversion using a pretrained Character-BERT and a fused transformer
 
 [Publication](https://www.cambridge.org/core/journals/natural-language-engineering/article/neural-arabic-singulartoplural-conversion-using-a-pretrained-characterbert-and-a-fused-transformer/E181664F4CEDC19C02B073D9C582EB62?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
+[Code](https://github.com/mohammedatros/Arabic-Singular-to-Plural-Conversion.git)
 
 Morphological re-inflection generation is one of the most challenging tasks in the natural language processing (NLP) domain, especially with morphologically rich, low-resource languages like Arabic.It is worth remarking that there are three forms of plural nouns in the Arabic language: masculine, feminine, and irregular. The first two of which are the easier to predict in terms of the morphological structure as they only need two additional suffixes to the end of the word to convert the singular form into plural, namely “”–“yn” or “”–“wn” and “”–“At” for the masculine, and feminine nouns, respectively. However, for the irregular form, the task is more challenging where internal changes are needed to generate plural forms.
 
