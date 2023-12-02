@@ -34,6 +34,7 @@ We investigate the ability of transformer-based models in the singular-to-plural
 ### Spans Detection of Toxic Phrases in Arabic Tweets
 
 [Publication](https://ieeexplore.ieee.org/abstract/document/9811228)
+[Code](https://github.com/mohammedatros/Toxic-Spans-Detection-in-Arabic-Tweets.git)
 
 The need for an automated toxicity detection system in Online Social Networks (OSN) is dramatically increasing as the content of abusive and hateful language in social networking communities is propagating. This inflation in toxic activities burdens human moderators and makes the task of filtering out such destructive contents harder. In this paper, we investigate and develop different techniques and deep learning models to detect the spans of characters within an Arabic content that drive a model to classify it as being toxic. Incorporating a model capable of providing such a detailed output into an automated toxicity detection system would significantly reduce the amount of time required to investigate measures taken by automated systems against contents classified as toxic.
   
